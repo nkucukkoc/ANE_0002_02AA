@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\anime\Door\Project\ANE_0002_02AA\Altium_Project\PCB\ANE_0002_02AA_0000.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=ane_0002_02aa_0000-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=ane_0002_02aa_0000-nonplated.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ANE_0002_02AA_0000.PcbDoc   08.10.2015  22:05:18
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : ANE_0002_02AA_0000-Plated.TXT
+ASCII Non-Plated RoundHoles File : ANE_0002_02AA_0000-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          34               272.97 mm (10.75 Inch)
+T2        0.9mm (35.433mil)        Round          6                10.90 mm (0.43 Inch)
+T3        1mm (39.37mil)           Round          20               118.81 mm (4.68 Inch)
+T4        1.016mm (40mil)          Round          9                22.75 mm (0.90 Inch)
+T5        2.5mm (98.425mil)        Round          4                181.00 mm (7.13 Inch)
+T6        3mm (118.11mil)          Round          4                159.05 mm (6.26 Inch)
+T7        2.4mm (94.488mil)        Round          2         NPTH   12.00 mm (0.47 Inch)
+---------------------------------------------------------------------------
+Totals                                            79               777.47 mm (30.61 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
