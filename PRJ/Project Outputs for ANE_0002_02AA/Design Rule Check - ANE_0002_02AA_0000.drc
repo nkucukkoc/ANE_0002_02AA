@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\anime\Door\Project\ANE_0002_02AA\Altium_Project\PCB\ANE_0002_02AA_0000.PcbDoc
-Date     : 08.10.2015
-Time     : 22:02:06
+Date     : 11.10.2015
+Time     : 23:47:24
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (IsVia)
 Rule Violations :0
@@ -63,12 +63,15 @@ Rule Violations :0
 Processing Rule : Clearance Constraint (Gap=0.4mm) (InNet('CHASSIS1') OR InNet('CHASSIS2') OR InNet('CHASSIS3') OR InNet('CHASSIS4') OR InNet('CHASSIS5') OR InNet('CHASSIS6')),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.4mm) (IsCopperRegion),(All)
+Processing Rule : Clearance Constraint (Gap=0.3mm) (IsCopperRegion),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.2mm) (HasFootprint('TSOP65P640X120-16N-1')),(All)
+Processing Rule : Clearance Constraint (Gap=0.2mm) (HasFootprint('TSOP65P640X120-16N-1') OR HasFootprint('TQFP80P900X900X160-32N')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (AsMM(PadXSize_AllLayers) > 3),(All)
 Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

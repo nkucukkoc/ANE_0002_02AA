@@ -1,10 +1,11 @@
 DRC Rules Export File for PCB: E:\anime\Door\Project\ANE_0002_02AA\Altium_Project\PCB\ANE_0002_02AA_0000.PcbDoc
-RuleKind=Clearance|RuleName=Clearance_IC_Pads|Scope=Board|Minimum=7.87
-RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=15.75
-RuleKind=Clearance|RuleName=Clearance_Chassis|Scope=Board|Minimum=15.75
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Small_Pads|Scope=Board|Minimum=1.97
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Small_Pads|Scope=Board|Minimum=1.97
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_Chassis|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_IC_Pads|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=19.69
